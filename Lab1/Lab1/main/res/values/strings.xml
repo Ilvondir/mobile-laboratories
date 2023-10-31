@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">Lab1</string>
+    <string name="left_btn">Cześć</string>
+    <string name="right_btn">Dzień dobry</string>
+    <string name="hi_msg">Witam!</string>
+</resources>
